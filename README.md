@@ -2,6 +2,24 @@
 
 > 毕业论文 / 期刊投稿的 AI 痕迹完整处理方案：**多平台 AI 率检测 → 一键 AIGC 降重 → 降后复查**，一个入口全流程闭环。
 
+## 真实效果预览（实测截图）
+
+<div align="center">
+
+**AI 率检测 · 多平台一键实测**（AI 率圆环 + 判 AI 片段明细）
+
+<img src="screenshots/pc-ai-check.jpg" width="560" alt="AI 率检测实测"/>
+
+**AIGC 降重 · 降后立即复查**
+
+<img src="screenshots/pc-aigc-reduce.jpg" width="560" alt="AIGC 降重实测"/>
+
+**PC 端平台全貌**
+
+<img src="screenshots/pc-home.jpg" width="560" alt="PC 端首页"/>
+
+</div>
+
 ---
 
 ## 你是不是正在遇到这些问题
